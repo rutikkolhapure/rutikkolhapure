@@ -2,7 +2,7 @@
 
 **Product Manager | Business Analyst**
 
-Product-minded Business Consultant with 4+ years of experience turning ambiguous problems into shipped solutions across SaaS, BFSI, and enterprise technology. I sit at the intersection of product thinking, business analysis, and delivery — owning roadmaps, translating stakeholder needs into prioritized requirements, and leading cross-functional teams from discovery through go-to-market.
+Product-minded Business Consultant with 3+ years of experience turning ambiguous problems into shipped solutions across SaaS, BFSI, and enterprise technology. I sit at the intersection of product thinking, business analysis, and delivery — owning roadmaps, translating stakeholder needs into prioritized requirements, and leading cross-functional teams from discovery through go-to-market.
 
 ## Experience
 
