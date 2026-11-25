@@ -46,6 +46,7 @@ Product-minded Business Consultant with 3+ years of experience turning ambiguous
 |--------|-------|
 | **BFL**              | End-to-end requirements discovery, functional scoping, FSDs, user stories, wireframes,   sprint backlog, UAT, client demos |
 | **Geekay**           | Stakeholder discussions, business & functional requirements, FSDs, cross-functional delivery, UAT cycles |
+| **Danbro**           | PAN India Delivery Feature, Stakeholder discussions, business & functional requirements, FSDs, cross-functional delivery, UAT cycles |
 | **Beautie & Nutrie** | Requirements gathering, FSDs, user stories, wireframes, cross-team collaboration, UAT |
 | **KGen**             | End-to-end product ownership — discovery, problem definition, requirements, design, build, launch, post-launch adoption |
 | **HOB**              | App wireframe design, user stories, customer success, user adoption |
